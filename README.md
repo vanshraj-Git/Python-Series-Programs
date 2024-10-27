@@ -1,1 +1,1 @@
-Sum of series, programs in python programming language 
+Sum of series programs in python language 
