@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 dict1={
-    'name':['Vanshraj','Hitanshu','Jay','Yashan'],
+    'name':['Vanshraj','Hitanshu','Tirth','Yashan'],
     'RollNo.':[1,2,3,4],
     'Place':['Odhav','Bapunagar','Hatkashwar','Maninagar']
 }
